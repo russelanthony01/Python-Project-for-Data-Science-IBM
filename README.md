@@ -13,3 +13,5 @@ Visualizing Data
 Hands-on-experience with Python
 
 Use of yahoo's library - yfinance - to fetch historical data
+
+- Russel Chandanshiv (04/07/2025)
